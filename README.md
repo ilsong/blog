@@ -8,6 +8,7 @@ URL: https://ilsong.github.io/blog/
 - npm v6.13.4
 - node v13.5.0
 - gatsby-cli v2.8.23
+- typescript v3.7.4
 
 ## 빌드 & Publish
 ```npm run deploy```
